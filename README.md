@@ -21,7 +21,7 @@ Samuel Valbuena y Samuel Rojas
 
 ##  Descripción del proyecto
 
-Este repositorio presenta un mini proyecto de ciencia de datos enfocado en el análisis de hábitos digitales en estudiantes universitarios.
+Este repositorio contiene un proyecto de ciencia de datos enfocado en el análisis de hábitos digitales en estudiantes universitarios.
 
 Actualmente, gran parte del tiempo de los estudiantes se distribuye entre estudio, uso de redes sociales y consumo de contenido digital. A partir de datos simples sobre estos hábitos, se busca explorar posibles patrones de comportamiento.
 
@@ -57,7 +57,7 @@ Explorar cómo los estudiantes distribuyen su tiempo entre actividades digitales
 
 ## Metodología
 
-El proyecto sigue un flujo básico de trabajo en ciencia de datos:
+El proyecto se basa en el trabajo basico en ciencia de datos:
 
 1. Recolección de datos  
 2. Limpieza y organización  
