@@ -50,17 +50,7 @@ Para este proyecto se pueden utilizar bases de datos abiertas, datos académicos
 - Jupyter Notebook
 - GitHub
 
-## Estructura del repositorio
-
-- `data/`: datos usados en el proyecto
-- `images/`: imágenes del README
-- `notebooks/`: análisis del proyecto
-- `README.md`: descripción general del proyecto
-
 ## Resultado esperado
 
 Se espera identificar patrones generales sobre los hábitos de sueño de los estudiantes y mostrar cómo un tema cotidiano también puede analizarse desde la ciencia de datos.
 
-## Próximos pasos
-
-Esta parte puede ampliarse con visualizaciones, conclusiones y posibles mejoras del análisis.
