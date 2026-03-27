@@ -1,79 +1,79 @@
-<h1 align="center">Análisis del Uso de Redes Sociales en Estudiantes</h1>
-<p align="center"><b>Mini proyecto de ciencia de datos</b></p>
+<h1 align="center">📊 Análisis de Hábitos Digitales en Estudiantes Universitarios</h1>
 
 <p align="center">
-  <img src="images/social-media.jpg" alt="Redes sociales en estudiantes" width="450">
+Samuel Valbuena y Samuel Rojas
+</p>
+
+<p align="center">
+
+![Python](https://img.shields.io/badge/Python-3.10-blue)
+![Data Science](https://img.shields.io/badge/Data%20Science-Project-green)
+![Status](https://img.shields.io/badge/status-in%20progress-orange)
+![GitHub](https://img.shields.io/badge/GitHub-Repository-black)
+
+</p>
+
+<p align="center">
+<img src="images/students-data.jpg" width="450">
 </p>
 
 ---
 
-## Descripción
+##  Descripción del proyecto
 
-Este proyecto presenta una propuesta sencilla de ciencia de datos enfocada en el análisis del uso de redes sociales en estudiantes. La idea es observar cómo variables como el tiempo de uso diario, la plataforma más utilizada y el tiempo dedicado al estudio pueden mostrar ciertos patrones de comportamiento.
+Este repositorio presenta un mini proyecto de ciencia de datos enfocado en el análisis de hábitos digitales en estudiantes universitarios.
 
-El proyecto busca mostrar cómo un tema cotidiano también puede analizarse desde la ciencia de datos mediante la organización, exploración e interpretación de datos.
+Actualmente, gran parte del tiempo de los estudiantes se distribuye entre estudio, uso de redes sociales y consumo de contenido digital. A partir de datos simples sobre estos hábitos, se busca explorar posibles patrones de comportamiento.
+
+El objetivo del proyecto es mostrar cómo un conjunto de datos sencillo puede analizarse utilizando herramientas básicas de ciencia de datos.
 
 ---
 
 ## Objetivo
 
-Analizar información relacionada con el uso de redes sociales en estudiantes para identificar patrones generales y posibles relaciones con hábitos académicos.
+Explorar cómo los estudiantes distribuyen su tiempo entre actividades digitales y académicas, identificando posibles patrones en sus hábitos tecnológicos.
 
 ---
 
-## Preguntas de interés
+## Preguntas de investigación
 
-- ¿Cuánto tiempo pasan los estudiantes en redes sociales al día?
-- ¿Qué plataformas son las más utilizadas?
-- ¿Puede existir alguna relación entre el uso de redes y el tiempo de estudio?
-- ¿Se observan diferencias entre estudiantes con distintos hábitos digitales?
+- ¿Cuántas horas al día pasan los estudiantes en redes sociales?
+- ¿Cuánto tiempo dedican al estudio?
+- ¿Existen patrones entre uso de redes sociales y tiempo de estudio?
+- ¿Qué plataformas digitales son más utilizadas?
 
 ---
 
-## Variables del proyecto
+## Variables consideradas
 
 | Variable | Descripción |
-|----------|-------------|
-| Horas en redes sociales | Tiempo promedio diario de uso |
+|--------|-------------|
+| Horas en redes sociales | Tiempo promedio diario dedicado a redes |
 | Plataforma principal | Red social más utilizada |
-| Tiempo de estudio | Horas dedicadas al estudio |
-| Nivel de concentración | Percepción de concentración del estudiante |
+| Horas de estudio | Tiempo dedicado al estudio |
+| Uso del teléfono | Número aproximado de horas de uso |
 
 ---
 
-## Fuentes de datos
+## Metodología
 
-Para este proyecto se pueden utilizar:
-
-- bases de datos abiertas
-- encuestas académicas
-- datos simulados con fines educativos
-
----
-
-## Metodología general
+El proyecto sigue un flujo básico de trabajo en ciencia de datos:
 
 1. Recolección de datos  
-2. Limpieza y organización de la información  
-3. Análisis exploratorio  
+2. Limpieza y organización  
+3. Análisis exploratorio de datos  
 4. Visualización de patrones  
 5. Interpretación de resultados  
 
 ---
 
-## Herramientas
+## Herramientas utilizadas
 
-- Python
-- Pandas
-- Matplotlib
-- Jupyter Notebook
-- GitHub
-
----
-
-## Resultado esperado
-
-Se espera identificar patrones básicos sobre el uso de redes sociales en estudiantes y mostrar cómo un problema cotidiano puede trabajarse desde una perspectiva de ciencia de datos.
+- Python  
+- Pandas  
+- Matplotlib  
+- Jupyter Notebook  
+- Git  
+- GitHub  
 
 ---
-
