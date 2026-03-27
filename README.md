@@ -1,46 +1,65 @@
-# student-sleep-data-analysis
-Proyecto de ciencia de datos sobre hábitos de sueño en estudiantes
+<h1 align="center">Análisis del Uso de Redes Sociales en Estudiantes</h1>
+<p align="center"><b>Mini proyecto de ciencia de datos</b></p>
 
-# Análisis de Hábitos de Sueño en Estudiantes
+<p align="center">
+  <img src="images/social-media.jpg" alt="Redes sociales en estudiantes" width="450">
+</p>
 
-![Portada del proyecto](images/sleep-study.jpg)
+---
 
-## Descripción del proyecto
+## Descripción
 
-Este proyecto presenta una idea básica de ciencia de datos enfocada en el análisis de hábitos de sueño en estudiantes. El propósito es explorar cómo variables como las horas de sueño, el nivel de estrés y el rendimiento académico pueden relacionarse entre sí.
+Este proyecto presenta una propuesta sencilla de ciencia de datos enfocada en el análisis del uso de redes sociales en estudiantes. La idea es observar cómo variables como el tiempo de uso diario, la plataforma más utilizada y el tiempo dedicado al estudio pueden mostrar ciertos patrones de comportamiento.
 
-Es un proyecto sencillo que busca mostrar cómo la ciencia de datos puede utilizarse para organizar información, analizar patrones y obtener conclusiones a partir de datos.
+El proyecto busca mostrar cómo un tema cotidiano también puede analizarse desde la ciencia de datos mediante la organización, exploración e interpretación de datos.
+
+---
 
 ## Objetivo
 
-Analizar datos sobre hábitos de sueño en estudiantes para identificar comportamientos generales y posibles relaciones con otras variables académicas.
+Analizar información relacionada con el uso de redes sociales en estudiantes para identificar patrones generales y posibles relaciones con hábitos académicos.
+
+---
 
 ## Preguntas de interés
 
-- ¿Cuántas horas duermen en promedio los estudiantes?
-- ¿Existe relación entre menos horas de sueño y mayor estrés?
-- ¿Puede observarse alguna relación entre el sueño y el rendimiento académico?
+- ¿Cuánto tiempo pasan los estudiantes en redes sociales al día?
+- ¿Qué plataformas son las más utilizadas?
+- ¿Puede existir alguna relación entre el uso de redes y el tiempo de estudio?
+- ¿Se observan diferencias entre estudiantes con distintos hábitos digitales?
+
+---
 
 ## Variables del proyecto
 
 | Variable | Descripción |
 |----------|-------------|
-| Horas de sueño | Número de horas que duerme un estudiante por noche |
-| Nivel de estrés | Percepción de estrés del estudiante |
-| Rendimiento académico | Resultado académico general |
+| Horas en redes sociales | Tiempo promedio diario de uso |
+| Plataforma principal | Red social más utilizada |
 | Tiempo de estudio | Horas dedicadas al estudio |
+| Nivel de concentración | Percepción de concentración del estudiante |
+
+---
 
 ## Fuentes de datos
 
-Para este proyecto se pueden utilizar bases de datos abiertas, datos académicos o incluso un conjunto de datos simulado con fines educativos.
+Para este proyecto se pueden utilizar:
+
+- bases de datos abiertas
+- encuestas académicas
+- datos simulados con fines educativos
+
+---
 
 ## Metodología general
 
 1. Recolección de datos  
-2. Limpieza y organización  
+2. Limpieza y organización de la información  
 3. Análisis exploratorio  
-4. Visualización de resultados  
-5. Interpretación de hallazgos  
+4. Visualización de patrones  
+5. Interpretación de resultados  
+
+---
 
 ## Herramientas
 
@@ -50,7 +69,11 @@ Para este proyecto se pueden utilizar bases de datos abiertas, datos académicos
 - Jupyter Notebook
 - GitHub
 
+---
+
 ## Resultado esperado
 
-Se espera identificar patrones generales sobre los hábitos de sueño de los estudiantes y mostrar cómo un tema cotidiano también puede analizarse desde la ciencia de datos.
+Se espera identificar patrones básicos sobre el uso de redes sociales en estudiantes y mostrar cómo un problema cotidiano puede trabajarse desde una perspectiva de ciencia de datos.
+
+---
 
